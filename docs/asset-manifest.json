@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Tobita-Haruhiko/static/css/main.e6c13ad2.css",
-    "main.js": "/Tobita-Haruhiko/static/js/main.4974d792.js",
-    "static/js/453.93ebe892.chunk.js": "/Tobita-Haruhiko/static/js/453.93ebe892.chunk.js",
-    "index.html": "/Tobita-Haruhiko/index.html",
-    "main.e6c13ad2.css.map": "/Tobita-Haruhiko/static/css/main.e6c13ad2.css.map",
-    "main.4974d792.js.map": "/Tobita-Haruhiko/static/js/main.4974d792.js.map",
-    "453.93ebe892.chunk.js.map": "/Tobita-Haruhiko/static/js/453.93ebe892.chunk.js.map"
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.e1dc9b62.js",
+    "static/js/453.93ebe892.chunk.js": "/static/js/453.93ebe892.chunk.js",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.e1dc9b62.js.map": "/static/js/main.e1dc9b62.js.map",
+    "453.93ebe892.chunk.js.map": "/static/js/453.93ebe892.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4974d792.js"
+    "static/js/main.e1dc9b62.js"
   ]
 }
